@@ -48,7 +48,7 @@
                                 <rect key="frame" x="54" y="161" width="373" height="30"/>
                                 <nil key="textColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <textInputTraits key="textInputTraits" autocapitalizationType="words" autocorrectionType="no" spellCheckingType="no"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="words" autocorrectionType="no" spellCheckingType="no" returnKeyType="done"/>
                                 <connections>
                                     <action selector="displayLyrics:" destination="BYZ-38-t0r" eventType="editingDidEnd" id="G7T-43-SAT"/>
                                     <action selector="reset:" destination="BYZ-38-t0r" eventType="editingDidBegin" id="VTm-Ma-j6n"/>
